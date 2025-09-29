@@ -7,6 +7,7 @@ It captures hand gestures through a webcam and detects specific sign language al
 Currently, the model is trained to recognize three alphabets: A, B, and C.
 👉 Training all 26 alphabets was avoided because of system compatibility and performance constraints.
 
+
 **🚀 Features**
 
 ✅ Real-time gesture recognition using webcam
@@ -14,6 +15,9 @@ Currently, the model is trained to recognize three alphabets: A, B, and C.
 ✅ Uses MediaPipe Hands for keypoint extraction
 ✅ Lightweight and fast (runs smoothly on local machine)
 ✅ Scalable: Can be extended to detect more alphabets
+
+
+
 
 **🛠️ Tools & Technologies Used**
 1.Python 3.9+
@@ -23,6 +27,9 @@ Currently, the model is trained to recognize three alphabets: A, B, and C.
 5.Pandas – dataset handling
 6.Scikit-learn – model training utilities
 7.Keras / TensorFlow – deep learning model
+
+
+
 **📂 Project Structure**
 signlangdetect/
 │-- app.py             # Main application file (runs detection using webcam)
@@ -35,6 +42,8 @@ signlangdetect/
 ├── Logs/              # Training logs (if any)
 ├── MP_Data/           # Processed dataset (keypoints for training)
 ├── sign/              # Virtual environment folder
+
+
 
 **▶️ How to Run the Project**
 1.Install Python 3.9+ on your system.
@@ -51,8 +60,13 @@ Press Q to quit
 
 
 
-📸 Demo
+**📸 Demo:(must see)**
+My model is trained on three alphabets (A, B, C). Below are sample demos:
+for A[image](<"https://github.com/user-attachments/assets/a48c44cf-ba4f-497b-ae87-355e6f163287")
 
+for B[image](<"https://github.com/user-attachments/assets/40e604ae-092a-42d9-8c01-b60ce3a45c72")
+
+for C[image](<"https://github.com/user-attachments/assets/f485b1e4-0e32-4444-97d6-2adc3d4575ec")
 
 
 **💡 Key Highlights**
@@ -73,8 +87,10 @@ Press Q to quit
 
 **👨‍💻 Author**
 
-Your Name
+Himanshu Tiwari
 
 📧 himanshutiwari1061@gmail.com
 
 🔗 https://www.linkedin.com/in/himanshu-tiwari-00b030285
+
+✨ This project is a small step towards making communication easier for the hearing-impaired.
