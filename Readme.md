@@ -75,4 +75,5 @@ for C [image](https://github.com/himanshutiwri/sign-language-detection/blob/63b5
 6.Explored challenges of hardware limitations (training only on 3 alphabets due to system constraints)
 
 
-✨ This project is a small step towards making communication easier for the hearing-impaired.
+✨ This project is a small step towards making communication easier for the hearing impaired.
+
