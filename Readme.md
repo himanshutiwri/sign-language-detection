@@ -52,13 +52,6 @@ Show A, B, or C sign to the camera
 The recognized alphabet will be displayed on the screen
 Press Q to quit
 
-**📸 Demo:(must see)**
-My model is trained on three alphabets (A, B, C). Below are sample demos:
-for A [image](https://github.com/himanshutiwri/sign-language-detection/blob/1ead60af9cf56f3c064e8195b4c880dbf92b3c28/Screenshot%202025-09-29%20222838.png)
-for B [image](https://github.com/himanshutiwri/sign-language-detection/blob/9e156a184309de68904137e22e51f89ce8261328/Screenshot%202025-09-29%20222955.png)
-for C [image](https://github.com/himanshutiwri/sign-language-detection/blob/63b59965d1b5ede4806562202f9d9b6e3f15f17a/Screenshot%202025-09-29%20223030.png)
-
-
 
 **💡 Key Highlights**
 
