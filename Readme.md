@@ -87,7 +87,7 @@ for C[image](<"https://github.com/user-attachments/assets/f485b1e4-0e32-4444-97d
 
 **👨‍💻 Author**
 
-Himanshu Tiwari
+Himanshu kumar Tiwari
 
 📧 himanshutiwari1061@gmail.com
 
