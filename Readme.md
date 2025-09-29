@@ -62,7 +62,7 @@ Press Q to quit
 
 **📸 Demo:(must see)**
 My model is trained on three alphabets (A, B, C). Below are sample demos:
-for A[image](<"https://github.com/user-attachments/assets/a48c44cf-ba4f-497b-ae87-355e6f163287")
+for A[image](<"https://github.com/user-attachments/assets/2983b58d-b669-414e-be7c-d490d1dfd585"/>)
 
 for B[image](<"https://github.com/user-attachments/assets/40e604ae-092a-42d9-8c01-b60ce3a45c72")
 
