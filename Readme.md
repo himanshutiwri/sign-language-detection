@@ -62,11 +62,11 @@ Press Q to quit
 
 **📸 Demo:(must see)**
 My model is trained on three alphabets (A, B, C). Below are sample demos:
-for A[image](<"https://github.com/user-attachments/assets/2983b58d-b669-414e-be7c-d490d1dfd585"/>)
+for A[image](https://github.com/himanshutiwri/sign-language-detection/blob/main/Screenshot%202025-09-29%20222838.png?raw=true)
 
-for B[image](<"https://github.com/user-attachments/assets/40e604ae-092a-42d9-8c01-b60ce3a45c72"/>)
+for B[image](https://github.com/himanshutiwri/sign-language-detection/blob/main/Screenshot%202025-09-29%20222955.png?raw=true)
 
-for C[image](<"https://github.com/user-attachments/assets/f485b1e4-0e32-4444-97d6-2adc3d4575ec"/>)
+for C[image](https://github.com/himanshutiwri/sign-language-detection/blob/main/Screenshot%202025-09-29%20223030.png?raw=true)
 
 
 **💡 Key Highlights**
